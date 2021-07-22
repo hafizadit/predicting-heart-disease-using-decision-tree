@@ -1,0 +1,2 @@
+# predicting-heart-disease-using-decision-tree
+Proyek Gabut. Predicting someone have/not the heart disease by several health information using a decision tree model. The datasets is from UCI that i get from kaggle. I get the 74% accuracy for the first model, and then i try to make it better by purn the tree using ccp. I got a better accuracy, whic is 84$. After that, i also try tuning the hyper parameter using random search, and also get a better result but still lower than purned tree (that used ccp) with 80% accuracy.
